@@ -8,7 +8,7 @@ var spawner = require('spawner');
 var construction = require('construction');
 
 //Test comment githup push. 09.02.2022
-
+//test commit
 //TODOs nach Priorität:
 //renew creep bauen
   //  in Methode einbauen, wenn lifetime unter 300, dann ab zum spwawn
